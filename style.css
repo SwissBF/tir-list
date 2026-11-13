@@ -1,1 +1,33 @@
-p {color:rgb(57, 221, 84)}
+p {
+    color:rgb(0, 0, 0);
+    text-indent: 15px;
+}
+
+.crevetka {
+  width: 100px; /* Ширина картинки в пикселях */
+  max-width: 100%; /* Не даст картинке вылезти за край экрана на телефоне */
+  height: auto; /* Автоматическая высота для сохранения пропорций */
+  margin-left: 40px;
+  
+
+}
+
+.main-title {
+    font-size: 40px;
+    font-family: 'Xmind' sans-serif;
+}
+
+.tit {
+    gap: 10px;
+    display: flex;
+    align-items: center;
+
+}
+
+body {
+    font-family: 'Play', sans-serif;
+    margin-left: 25px;
+}
+
+
+
